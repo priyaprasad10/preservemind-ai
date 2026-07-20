@@ -1,0 +1,4 @@
+streamlit
+requests
+python-dotenv
+generative-ai-hub-sdk
